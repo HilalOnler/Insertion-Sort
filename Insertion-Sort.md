@@ -32,7 +32,7 @@
 Sonuç: [2, 6, 16, 18, 22, 27]
 ```
 
-## ** ***Big-O Gösterimi***
+## ***Big-O Gösterimi***
 En kötü durumda her eleman için dizinin geri kalan elemanlarıyla kıyaslama yapılır. Bu da n(n-1)/2* kıyaslama demektir.
 En iyi durumda, yani dizi zaten sıralıysa, her eleman sadece bir kez kontrol edilir. O(n).
 
@@ -44,7 +44,7 @@ En iyi durumda, yani dizi zaten sıralıysa, her eleman sadece bir kez kontrol e
 
 
 
-## ** ***Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.***
+##  ***Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.***
 Sıralamanın ortasında bulunduğu için **Average Case** kapsamına grirer.
 
 
